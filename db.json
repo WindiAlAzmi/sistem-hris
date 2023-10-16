@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "name": "aliya",
+      "email": "alya@gmail.com",
+      "password": "12345",
+      "role": 1,
+      "image":"/images/users/lana-byrd.png",
+      "access_token": "lorem ipsum"
+    },
+    {
+      "name": "rene",
+      "email": "rene@gmail.com",
+      "password": "12345",
+      "role": 2,
+      "image":"/images/users/neil-sims.png",
+      "access_token": "lorem ipsum"
+    },
+    {
+      "name": "tiany",
+      "email": "tifany@gmail.com",
+      "password": "12345",
+      "role": 3,
+      "image":"/images/users/robert-brown.png",
+      "access_token": "lorem ipsum"
+    }
+  ],
+  "cuti": [
+     {
+      "id":"1",
+       "nama":"sekar",
+       "id_karyawan":"01",
+       "divisi":"it",
+       "hari":"7 hari",
+       "status":"pending",
+       "keperluan":"urusan keluarga"
+     },
+         {
+      "id":"2",
+       "nama":"stephan",
+       "id_karyawan":"02",
+       "divisi":"it",
+       "hari":"2 hari",
+       "status":"pending",
+       "keperluan":"urusan keluarga"
+     }
+  ],
+  "dinas":[
+      {
+      "id":"1",
+       "nama":"toni",
+       "id_karyawan":"03",
+       "divisi":"it",
+       "hari":"7 hari",
+       "status":"disetujui",
+       "keperluan":"meeting"
+     },
+           {
+      "id":"2",
+       "nama":"bayu",
+       "id_karyawan":"08",
+       "divisi":"it",
+       "hari":"7 hari",
+         "status":"pending",
+       "keperluan":"meeting"
+     }
+  ],
+  "pelatihan": [
+     {
+      "id":"1",
+       "nama":"sekar",
+       "id_karyawan":"01",
+       "divisi":"it",
+       "hari":"7 hari",
+       "status":"pending",
+       "keperluan":"pelatihan soft skill"
+     }
+  ]
+}
